@@ -12,7 +12,7 @@
     "kluctl@latest",
     "kubectl@latest",
     "kubectx@latest",
-    "kubernetes-helm@latest",
+    "kubernetes-helm@late",
     "kustomize@latest",
     "python312@latest",
     "go@1.19",
