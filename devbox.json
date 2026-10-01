@@ -11,7 +11,8 @@
     "ko@latest",
     "kluctl@latest",
     "kubectl@latest",
-    "kubectx@latest", ## removed 15th line
+    "kubectx@latest",
+    "kubernetes-helm@late",
     "kustomize@latest",
     "python312@latest",
     "go@1.19",
